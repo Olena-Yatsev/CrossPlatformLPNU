@@ -1,0 +1,12 @@
+- quantity: 10
+  price: 100.0
+  name: Product A
+  salesman:
+  - companyName: Company A
+  - companyName: Company B
+- quantity: 5
+  price: 200.0
+  name: Product B
+  salesman:
+  - companyName: Company A
+  - companyName: Company B

@@ -1,0 +1,21 @@
+[ {
+  "productName" : "Product A",
+  "productQuantity" : 10,
+  "productSalesman" : [ {
+    "companyName" : "Company A",
+    "startContractDate" : [ 2000, 2, 4 ]
+  }, {
+    "companyName" : "Company B",
+    "startContractDate" : [ 2024, 2, 4 ]
+  } ]
+}, {
+  "productName" : "Product B",
+  "productQuantity" : 5,
+  "productSalesman" : [ {
+    "companyName" : "Company A",
+    "startContractDate" : [ 2000, 2, 4 ]
+  }, {
+    "companyName" : "Company B",
+    "startContractDate" : [ 2024, 2, 4 ]
+  } ]
+} ]
